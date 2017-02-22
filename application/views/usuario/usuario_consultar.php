@@ -54,6 +54,8 @@
 		<div>holaa </div>
 
 		<div>solo text</div>
+		<div>solo text2</div>
+		<div>solo text3</div>
 
 		
 
